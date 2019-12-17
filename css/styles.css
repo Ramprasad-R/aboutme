@@ -43,7 +43,8 @@ hr {
 .top-container {
   background-color: #EAF9F5;
   position: relative;
-  padding-top: 100px;
+  padding-top: 5px;
+  padding-bottom: 5px;
 }
 .middle-container {
   padding: 100px 0;

@@ -68,6 +68,10 @@ hr {
 }
 
 .mar-circular {
+  border-radius: 20%;
+}
+
+.circular {
   border-radius: 50%;
 }
 
@@ -78,6 +82,12 @@ hr {
   margin-left: 30px;
 }
 
+.music-img {
+  width: 200px;
+  height: auto;
+  float: right;
+  margin-left: 30px;
+}
 
 .banner-img {
   width: 100%;
@@ -96,8 +106,15 @@ hr {
   float: left;
   margin-right: 30px;
 }
+
+.food-img {
+  width: 200px;
+  float: left;
+  margin-right: 30px;
+}
+
 .footer-link {
-  color: #11999E;
+  color: rgb(9, 56, 58);
   font-family: 'Montserrat', sans-serif;
   margin: 10px 20px;
   text-decoration: none;
@@ -116,7 +133,7 @@ hr {
   margin: 40px auto 60px;
 }
 
-.btn {
+.contact-btn {
   background:    #11cdd4;
   background:    linear-gradient(#11cdd4, #11999e);
   border-radius: 8px;
@@ -129,9 +146,11 @@ hr {
   text-decoration: none;
 }
 
-.btn:hover {
+.contact-btn:hover {
   background: #30e3cb;
 }
+
+
 
 .copyright {
   color: #EAF6F6;

@@ -1,0 +1,22 @@
+{
+  "name": "aboutme",
+  "version": "1.0.0",
+  "description": "About Ramprasad Rengaramanujam",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ramprasad-R/aboutme.git"
+  },
+  "author": "Ramprasad Rengaramanujam",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ramprasad-R/aboutme/issues"
+  },
+  "homepage": "https://github.com/Ramprasad-R/aboutme#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}

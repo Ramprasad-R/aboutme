@@ -159,3 +159,12 @@ hr {
   font-size: 0.75rem;
   padding-top: 20px;
 }
+
+@media (min-width: 575px) {
+  p {
+    width: 550px;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 2rem;
+  }
+}
